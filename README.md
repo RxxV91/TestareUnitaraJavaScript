@@ -57,8 +57,14 @@ Dupa descarcarea continutului din github trebuie sa rulam:
 - Mutanti omorati: 49
 - Mutanti supravietuitori: 2 (operatori de egalitate marginali)
 
+Raport AI
+- Am folosit chatgpt pentru a ma ajuta la instalarea dependentelor pentru testare.
+- Chatgpt pentru a rezolva erorile de testare.
+- Aceste lucruri m-au ajutat sa rezolv mai repede problemele intampinate la instalare si la debuging.
+
 Referinte:
 - Jest - https://jestjs.io
 - Stryker - https://stryker-mutator.io
 - Udemy - https://www.udemy.com/course/javascript-unit-testing-the-practical-guide/learn/lecture/31877676?start=0#overview
+- ChatGPT
   
